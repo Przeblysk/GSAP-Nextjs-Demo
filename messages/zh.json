@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Next.js 启动模板!",
+    "description": "Next.js 启动模板,带有 TypeScript, Tailwind CSS, Next-auth, i18n, Drizzle, Eslint, Prettier. 快速启动项目,高效工作。",
+    "message-placeholder": "在这里输入你想说的话...",
+    "submit": "提交",
+    "hello-form-message-min-length": "你的消息必须至少有 3 个字符长。"
+  },
+  "Auth": {
+    "sign-in": "登录",
+    "sign-out": "退出登录",
+    "my-account": "我的账户",
+    "welcome-back": "欢迎回来",
+    "choose-sign-in-method": "选择登录方式"
+  },
+  "HelloAction": {
+    "not-logged-in-message": "来自服务器的消息。这是你的消息 👉 {message}",
+    "logged-in-message": "你好 {username} 👋,来自服务器!!!这是你的消息 👉 {message}"
+  }
+}

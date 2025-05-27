@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Next.js starter template!",
+    "description": "A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, i18n, Drizzle, Eslint, Prettier. Start your project quickly and efficiently.",
+    "message-placeholder": "Type everything you want to say here...",
+    "submit": "Submit",
+    "hello-form-message-min-length": "Your message must be at least 3 characters long."
+  },
+  "Auth": {
+    "sign-in": "Sign in",
+    "sign-out": "Sign out",
+    "my-account": "My Account",
+    "welcome-back": "Welcome back",
+    "choose-sign-in-method": "Choose a sign-in method"
+  },
+  "HelloAction": {
+    "not-logged-in-message": "Your message is from server.This is your message 👉 {message}",
+    "logged-in-message": "Hello {username} 👋, This message is from server!!!This is your message 👉 {message}"
+  }
+}
