@@ -57,7 +57,7 @@ function Box({
   );
 }
 
-export default function Demo6Page() {
+export default function Demo7Page() {
   const animation = useRef<GSAPTween>(null);
 
   const toggle = () => {
