@@ -67,7 +67,7 @@ export default function Demo10Page() {
       <div className="video-container w-full bg-black">
         <video
           className="w-full object-cover"
-          src="/videos/2.mp4"
+          src="/videos/1.mp4"
           muted
           preload="auto"
           playsInline
